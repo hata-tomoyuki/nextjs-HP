@@ -1,6 +1,8 @@
+import Layout from "../components/Layout";
+
 const Blog = () => {
   return (
-    <div>Blog</div>
+    <Layout title="Blog">Blog</Layout>
   )
 }
 
